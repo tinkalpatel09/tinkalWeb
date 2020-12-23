@@ -2950,7 +2950,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				padding: 4em 0 0.1em 0 ;
+				padding: 3em 0 0.1em 0 ;
 			}
 
 				#header nav {
@@ -3163,7 +3163,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#main {
-				padding: 0em 0 4em 0 ;
+				padding: 2em 0 4em 0 ;
 			}
 
 		}
